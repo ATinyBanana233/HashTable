@@ -1,13 +1,10 @@
 # HashTable
 This is a hash table data structure implemented in C++
 
-Linked List structure needed is also uploaded long with a test driver
+Linked List structure is needed which is also uploaded along with a test driver
 
-This is fully functioning 
-
-This is an assignment from CMPT225 completed by me
+This is an assignment from CMPT225 which is completed by me and is fully functioning
 
 Feel free to use the code for your own purposes
-
 
 
